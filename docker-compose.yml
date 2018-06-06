@@ -1,8 +1,0 @@
-version: '2'
-services:
-  rust:
-    container_name: rust_learning
-    image: rust:1.26-jessie
-    volumes:
-      - ./:/usr/src/myapp
-      - /tmp/rust/registrylearning:/usr/local/cargo/registry
