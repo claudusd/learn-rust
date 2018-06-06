@@ -1,9 +1,23 @@
 # Learning rust
 
-A simple repository to learn rust
+A simple repository to learn rust with the [The Rust Programming Language](https://doc.rust-lang.org/book/second-edition/index.html) ebook.
 
 ## Run
 
-To execute code you should have docker-composer.
+To execute code you should have rust.
 
-To run code run command `` make docker-rust``
+To run code run command ``cargo run``
+
+## Tooling
+
+### Text Editor
+
+I use Atom as text editor.
+
+**plugin**
+ * [racer](https://atom.io/packages/racer) for autocompletion. This plugin
+ require [racer exec](https://github.com/racer-rust/racer)
+
+## Days
+
+**Day 1** _(6/01/2018)_ : Install rust 1.26.2 and setup Atom.
