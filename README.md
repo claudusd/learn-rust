@@ -21,3 +21,5 @@ I use Atom as text editor.
 ## Days
 
 **Day 1** _(6/01/2018)_ : Install rust 1.26.2 and setup Atom.
+
+**Day 2** _(7/18/2019)_ : Do the [Guessing Game](https://doc.rust-lang.org/book/second-edition/ch02-00-guessing-game-tutorial.html)
